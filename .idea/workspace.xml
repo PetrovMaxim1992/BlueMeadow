@@ -5,10 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7708b719-c683-4bda-83d2-4f3c8fb6feda" name="Changes" comment="18.03.2025">
-      <change afterPath="$PROJECT_DIR$/CSS/normalaize.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/fonts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Roboto_Condensed-Black.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Roboto_Condensed-Black.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Roboto_Condensed-Black.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Roboto_Condensed-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Roboto_Condensed-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Roboto_Condensed-Regular.woff2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BlueMeadow.html" beforeDir="false" afterPath="$PROJECT_DIR$/BlueMeadow.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/normalaize.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/normalize.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +44,9 @@
     "accountId": "77c7621e-5cd5-4a58-8171-ded3cfa2167f"
   }
 }]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -76,7 +86,7 @@
       <updated>1741946195453</updated>
       <workItem from="1741946198459" duration="416000" />
       <workItem from="1742291497575" duration="173000" />
-      <workItem from="1742298265819" duration="2876000" />
+      <workItem from="1742298265819" duration="6643000" />
     </task>
     <task id="LOCAL-00001" summary="18.03.2025">
       <option name="closed" value="true" />
@@ -94,7 +104,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742298486259</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="18.03.2025">
+      <option name="closed" value="true" />
+      <created>1742301283252</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1742301283252</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
