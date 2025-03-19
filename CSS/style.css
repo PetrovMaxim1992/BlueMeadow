@@ -17,6 +17,10 @@ ul, ul li {
     margin: 0;
 }
 
+h1 h2 h3 {
+    margin: 0;
+}
+
 /****************************header********************************/
 .header {
     display: flex;
@@ -62,6 +66,8 @@ ul, ul li {
     color: #484848;
 }
 
+/****************************main********************************/
+
 nav {
     display: flex;
     justify-content: space-between;
@@ -88,3 +94,112 @@ nav {
     gap: 18px;
 }
 
+.main-view {
+    margin-top: 36px;
+    margin-left: 1px;
+    border-bottom: 1px solid #7A7A7A;
+    padding-bottom: 25px;
+}
+
+h1 {
+    font-family: Roboto_Condensed-Regular, sans-serif;
+    font-size: 64px;
+    font-weight: 600;
+    color: #141414;
+    width: 735px;
+    margin-top: 27px;
+}
+
+/****************************section-1********************************/
+
+.entertainments {
+    margin-top: 32px;
+    border-bottom: 1px solid #7A7A7A;
+    padding-bottom: 92px;
+}
+
+.entertainments h2 {
+    font-family: Roboto_Condensed-Regular, sans-serif;
+    font-size: 28px;
+    font-weight: 600;
+    color: #BF6024;
+}
+
+.entertainments h3 {
+    font-family: Roboto_Condensed-Regular, sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    color: #141414;
+    margin-top: 12px;
+}
+
+.entertainments-variant {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 72px 28px;
+    margin-top: 33px;
+}
+
+/****************************section-2********************************/
+
+.habitation {
+    margin-top: 67px;
+    border-bottom: 1px solid #7A7A7A;
+    padding-bottom: 75px;
+}
+
+.habitation h2 {
+    font-family: Roboto_Condensed-Regular, sans-serif;
+    font-size: 28px;
+    font-weight: 600;
+    color: #BF6024;
+}
+
+.habitation-variant {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 30px;
+    margin-top: 31px;
+}
+
+.lux {
+    background-image: url("../img/lux.png");
+    background-repeat: no-repeat;
+    width: 555px;
+    height: 600px;
+    margin: 0;
+}
+
+.lux h3 {
+    margin: 489px 0 0 34px;
+    font-family: Roboto_Condensed-Regular, sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+    color: #FFFFFF;
+    line-height: 128%;
+}
+
+.offers {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 540px;
+    height: 600px;
+    gap: 30px;
+}
+
+.offers-section {
+    width: 540px;
+    height: 285px;
+    background: #EAEDF2;
+}
+
+.offers-loyalty {
+    width: 540px;
+    height: 285px;
+    background: #EAEDF2;
+}
